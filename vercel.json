@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/compress.js": {
-      "maxDuration": 30
-    }
-  }
-}
